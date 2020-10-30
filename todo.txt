@@ -1,0 +1,3 @@
+fazer o bot sensivel a mentions para o caso dos bans serem manuais
+traduçao para PT
+...

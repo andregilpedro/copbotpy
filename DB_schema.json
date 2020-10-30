@@ -1,0 +1,44 @@
+{
+  "id": {
+    "status": "banned/muted/empty",
+    "infractions": {
+      "id": {
+        "type": "",
+        "moderatorId": "",
+        "reason": "",
+        "until": "se for timed timestamp do fim",
+        "attachments": [
+          {
+            "type": "image/file ou text",
+            "content": ""
+          },
+          {
+            "type": "image/file ou text",
+            "content": ""
+          }
+        ]
+      },
+      "id2": {
+        "type": "",
+        "moderatorId": "",
+        "reason": "",
+        "until": "se for timed timestamp do fim",
+        "attachments": [
+          {
+            "type": "image/file ou text",
+            "content": ""
+          },
+          {
+            "type": "image/file ou text",
+            "content": ""
+          }
+        ]
+      }
+    }
+  },
+  "id2": {
+    "infractions": [
+      {}
+    ]
+  }
+}
